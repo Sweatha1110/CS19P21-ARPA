@@ -2,6 +2,17 @@
   "Packages": [
     {
       "Package": {
+        "Id": "UiPath.Credentials.Activities",
+        "Version": "2.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\sweatha\\.nuget\\packages\\credentialmanagement.standard\\1.0.4\\lib/netstandard2.0/CredentialManagement.dll",
+        "C:\\Users\\sweatha\\.nuget\\packages\\uipath.credentials.activities\\2.0.0\\lib/net5.0-windows7.0/UiPath.Credentials.Activities.dll"
+      ],
+      "Path": "C:\\Users\\sweatha\\.nuget\\packages\\uipath.credentials.activities\\2.0.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.23.4"
       },
@@ -269,17 +280,6 @@
         "C:\\Users\\sweatha\\.nuget\\packages\\uipath.vision\\3.13.2\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\sweatha\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Credentials.Activities",
-        "Version": "2.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\sweatha\\.nuget\\packages\\credentialmanagement.standard\\1.0.4\\lib/netstandard2.0/CredentialManagement.dll",
-        "C:\\Users\\sweatha\\.nuget\\packages\\uipath.credentials.activities\\2.0.0\\lib/net5.0-windows7.0/UiPath.Credentials.Activities.dll"
-      ],
-      "Path": "C:\\Users\\sweatha\\.nuget\\packages\\uipath.credentials.activities\\2.0.0"
     }
   ],
   "Conflicts": [],
