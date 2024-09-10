@@ -101,7 +101,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="513.6,2315.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="210701275" sap:VirtualizedContainerService.HintSize="513.6,2315.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sco:Collection(sma:PSObject)" Name="OutPs" />
       <Variable x:TypeArguments="x:String" Name="strFileContent" />
