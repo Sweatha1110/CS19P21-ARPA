@@ -93,7 +93,7 @@
       <AssemblyReference>UiPath.Workflow</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="548.8,1168.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="210701275" sap:VirtualizedContainerService.HintSize="548.8,1168.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="number1" />
     </Sequence.Variables>
